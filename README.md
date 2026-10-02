@@ -1,1 +1,1 @@
-# 6gaussPE-A
+# 6gaussPE-a
